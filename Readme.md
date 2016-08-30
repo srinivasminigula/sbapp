@@ -1,4 +1,4 @@
-- Annotation: @SpringBootConfig
+- Annotation: @@SpringBootApplication
 - main method
 - SpringApplication.run() method
 - spring boot starter parent BOM
